@@ -2,6 +2,7 @@ div.educational_program {
   border-bottom: solid 1px #ccc;
   margin-bottom: 10px;
   padding-bottom: 20px;
+  margin-left: -20px;
 }
 
 div.educational_program div.educational_program_link {
